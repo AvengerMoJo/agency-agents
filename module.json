@@ -1,0 +1,13 @@
+{
+  "name": "agency_persona",
+  "version": "1.0.0",
+  "contract_version": "1.0",
+  "provider_type": "persona",
+  "entry_point": "app.roles.persona_provider.AgencyPersonaModule",
+  "description": "Persona provider backed by agency-agents markdown catalog and NineChapter scoring",
+  "dependencies": [],
+  "data_contracts": {
+    "RoleDefinition": "1.0",
+    "NineChapterScore": "1.0"
+  }
+}
