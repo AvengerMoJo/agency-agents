@@ -41,6 +41,7 @@ Have an idea for a specialized agent? Great! Here's how to add one:
    - `product/` - Product management specialists
    - `project-management/` - PM and coordination specialists
    - `testing/` - QA and testing specialists
+   - `security/` - Security architecture, AppSec, pentest, threat intel, and incident response
    - `support/` - Operations and support specialists
    - `spatial-computing/` - AR/VR/XR specialists
    - `specialized/` - Unique specialists that don't fit elsewhere
